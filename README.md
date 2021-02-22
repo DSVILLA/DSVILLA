@@ -10,7 +10,7 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sharp.svg" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/lua.png" width=60> |
 |:---:|:---:|:---:|
 
 
