@@ -2,7 +2,7 @@
 ## Hello :wave: Devs, 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif" width=100>
+  <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif" width=450>
   <br><br>
   <samp>
    I'm <a href="https://facebook.com/marcosmasiri">Marcos Sousa</a> I'm a software developer 👨‍🎓💻. Interested in working with backend, APIs, databases and currently learning about IoT, DataScience, IA, Agrocomputing technology. I am raising my studies to Python only this year 2021. 🤩 and I have a love / hate relationship with Programming 😐
