@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-   I'm <a href="https://facebook.com/marcosmasiri">Marcos Sousa</a> I'm a software developer💻. Interested in working with backend, APIs, databases and currently learning about IoT, DataScience, IA, Agrocomputing technology. I am raising my studies to Python only this year 2021. 💡 and I have a love / hate relationship with Programming 😐
+   I'm <a href="https://facebook.com/marcosmasiri">Marcos Sousa</a> I'm a software developer 👨‍🎓💻. Interested in working with backend, APIs, databases and currently learning about IoT, DataScience, IA, Agrocomputing technology. I am raising my studies to Python only this year 2021. 🤩 and I have a love / hate relationship with Programming 😐
   </samp>
 </p>
 
