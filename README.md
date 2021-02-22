@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Vedant</a> currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+   I'm <a href="https://facebook.com/marcosmasiri">Marcos Sousa</a> I'm a software developer💻. Interested in working with backend, APIs, databases and currently learning about IoT, DataScience, IA, Agrocomputing technology. I am raising my studies to Python only this year 2021. 💡 and I have a love / hate relationship with Programming 😐
   </samp>
 </p>
 
