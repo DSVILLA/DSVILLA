@@ -15,8 +15,8 @@
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
-|:---:|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/cs_vedant">
