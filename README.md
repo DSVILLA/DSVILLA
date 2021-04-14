@@ -29,8 +29,7 @@ Este é meu site: github.io
 |
 <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> 
 |
-<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> 
-|
+<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60>
 |:---:|:---:|:---:|
 ### Conecte-se comigo :smiley:
 <a href="https://facebook.com/marcosmasiri">
