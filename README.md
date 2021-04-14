@@ -16,12 +16,12 @@ Este é meu site: github.io
 
 
 ### Ferramentas :fire:
-| <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/flutter-2038877-1720090.webp" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/jquery.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/phpmysql.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sql-4-190807.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/visual-studio.png" width=60> |
+| <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/flutter-2038877-1720090.webp" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/jquery.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/phpmysql.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sql-4-190807.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### IDEs :fire:
-|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> |
-|:---:|:---:|
+|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/visual-studio.png" width=60> |
+|:---:|:---:|:---:|
 
 ### Conecte-se comigo :smiley:
 <a href="https://facebook.com/marcosmasiri">
