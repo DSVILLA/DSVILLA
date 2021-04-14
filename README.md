@@ -4,8 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif" width=450>
   <br><br>
-  <samp>
-   I'm <a href="https://facebook.com/marcosmasiri">Me chamo Marcos Sousa, sou desenvolvedor de software 👨‍🎓💻. Interessado em trabalhar com backend, APIs, bancos de dados e atualmente aprendendo sobre IoT, DataScience, IA, tecnologia Agrocomputing. Estou intensificando meus estudos em Python neste ano de 2021. E eu tenho uma relação de amor e ódio com a programação kkk. 😐
+  <samp>Me chamo Marcos Sousa, sou desenvolvedor de software 👨‍🎓💻. Interessado em trabalhar com backend, APIs, bancos de dados e atualmente aprendendo sobre IoT, DataScience, IA, tecnologia Agrocomputing. Estou intensificando meus estudos em Python neste ano de 2021. E eu tenho uma relação de amor e ódio com a programação kkk. 😐
   </samp>
 </p>
 
