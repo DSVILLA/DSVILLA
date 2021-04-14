@@ -11,7 +11,13 @@ Este é meu site: github.io
 </p>
 
 ### Linguagens de programação  :rocket:
-|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sharp.svg" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/react.png" width=60> |
+|
+<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> 
+| 
+<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sharp.svg" width=60> 
+| 
+<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/react.png" width=60> 
+|
 |:---:|:---:|:---:|
 
 
@@ -20,8 +26,12 @@ Este é meu site: github.io
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### IDEs :fire:
-|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> |
-:---:||:---:|
+|
+<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> 
+|
+<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> 
+|
+|:---:||:---:|
 ### Conecte-se comigo :smiley:
 <a href="https://facebook.com/marcosmasiri">
   <img align="left" alt="Marcos Facebook" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/facebook.svg" />
