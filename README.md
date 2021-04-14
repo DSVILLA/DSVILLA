@@ -16,13 +16,7 @@ Este é meu site: github.io
 
 
 ### Ferramentas :fire:
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/django.png" width=60> 
-| <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> 
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Gulp.png" width=60> 
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Jquery.png" width=60> 
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/0d9e64c69ceeb2cc96972aa23a0b9453ed83f8b4/img/ajax.svg" width=60> 
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/angular9.png" width=60> 
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/css.png" width=60> |
+| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Gulp.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Jquery.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/0d9e64c69ceeb2cc96972aa23a0b9453ed83f8b4/img/ajax.svg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/angular9.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/css.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ###
