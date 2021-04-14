@@ -11,13 +11,13 @@ Este é meu site: github.io
 </p>
 
 ### Linguagens de programação  :rocket:
-|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sharp.svg" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/react.png" width=60> |
+|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/sharp.svg" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/r.png" width=60> |
 |:---:|:---:|:---:|
 
 
 ### Ferramentas :fire:
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="" width=60> | <img src="" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Gulp.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Jquery.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/0d9e64c69ceeb2cc96972aa23a0b9453ed83f8b4/img/ajax.svg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/angular9.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/css.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/db.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/electron.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/esnext.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/express.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/html5.png" width=60> | <img src="" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### IDEs :fire:
 |<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/visual-studio.png" width=60> |
