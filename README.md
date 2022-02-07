@@ -6,7 +6,6 @@
   <br><br>
   <samp>Me chamo Marcos Sousa, sou desenvolvedor de software 👨‍🎓💻. Sou um fullstack conhecedor de diversas tecnologias. <br>Interessado em trabalhar com backend, APIs, bancos de dados e atualmente aprendendo sobre IoT, DataScience, IA e tecnologia Agrocomputing. Estou intensificando meus estudos em Python neste ano de 2021. E eu tenho uma relação de amor e ódio com a programação kkk. 😐
 
-Este é meu site: Https://marcosmasiri.github.io/home 
   </samp>
 </p>
 
