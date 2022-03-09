@@ -20,7 +20,7 @@
 
 ###
 | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/esnext.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mongodb.png" width=60> |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 
 ###
 | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> |
