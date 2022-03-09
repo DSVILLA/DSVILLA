@@ -23,8 +23,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ###
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/vuejs.jpeg" width=60> |
-|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> |
+|:---:|:---:|:---:|
 
 ### IDEs :fire:
 |<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/visual-studio.png" width=60> |
