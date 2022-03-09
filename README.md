@@ -23,7 +23,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ###
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/phpmysql.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/postgresql.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/vuejs.jpeg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/webpack.png" width=60> |
+| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/phpmysql.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/postgresql.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/vuejs.jpeg" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
