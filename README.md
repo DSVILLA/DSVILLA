@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif" width=450>
   <br><br>
-  <samp>Me chamo Marcos Sousa, sou desenvolvedor de software 👨‍🎓💻. Sou um fullstack conhecedor de diversas tecnologias. <br>Interessado em trabalhar com backend, APIs, bancos de dados e atualmente aprendendo sobre IoT, DataScience, IA e tecnologia Agrocomputing. Estou intensificando meus estudos em Python neste ano de 2021. E eu tenho uma relação de amor e ódio com a programação kkk. 😐
+  <samp>Olá caro terráqueo me chamo Marcos, sou desenvolvedor em Python. Apaixonado por games, e RPG de mesa. <br>Trabalho atualmente com desenvolvimentos de jogos em python e dev front-end em Django. Estou intensificando meus estudos em Python neste ano de 2022. E eu tenho uma relação de amor e ódio com a programação kkk. 😐
 
   </samp>
 </p>
