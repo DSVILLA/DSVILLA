@@ -20,8 +20,8 @@
 
 
 ### IDEs :fire:
-|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/visual-studio.png" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> |
+|:---:|:---:|
 
 ### Conecte-se comigo :smiley:
 <a href="https://facebook.com/marcosmasiri">
