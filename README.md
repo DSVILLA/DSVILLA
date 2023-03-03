@@ -33,9 +33,9 @@
 <a href="https://instagram.com/marcosmasiri">
   <img align="left" alt="Instagram Marcos" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/instagram-square.svg" />
 </a>
-<a href="https://www.linkedin.com/in/marcossousa93/">
+<!-- <a href="https://www.linkedin.com/in/marcossousa93/">
   <img align="left" alt="Linkedin Marcos" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" />
-</a>
+</a> -->
 <a href="https://dev.to/dsvilla">
   <img align="left" alt="DEV Marcos" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/dev.svg" />
 </a>
