@@ -9,9 +9,11 @@
   </samp>
 </p>
 
+
 ### Main Skills :rocket:
 |<img src="https://raw.githack.com/marcospyy/marcospyy/main/img/python.png" width=60> | <img src="https://raw.githubusercontent.com/marcospyy/marcospyy/main/img/sharp.svg" width=60> |
 |:---:|:---:|
+
 
 
 ### All Skills :hammer_and_wrench:
@@ -25,11 +27,16 @@ https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoCol
   <img align="center" alt="" src="" />
 </div><br/>
 
+
+
 ### Others Skills :dart: :diving_mask:
 | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/unity-icon-1.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/615px-Photoshop_CC_icon.png" width=60> |
 |:---:|:---:|
 
+
+
 ### IDEs :fire:
+
 
 
 ### Conecte-se comigo :smiley:
