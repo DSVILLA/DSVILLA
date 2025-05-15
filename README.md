@@ -15,6 +15,9 @@
 
 
 ### Ferramentas :hammer_and_wrench:
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/[javascript]/[#F7DF1E]" />
+
 | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/0d9e64c69ceeb2cc96972aa23a0b9453ed83f8b4/img/ajax.svg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mongodb.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
