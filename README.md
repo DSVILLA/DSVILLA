@@ -9,12 +9,12 @@
   </samp>
 </p>
 
-### Linguagens de programação  :rocket:
+### Main Skills :rocket:
 |<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/r.png" width=60> |
 |:---:|:---:|
 
 
-### Ferramentas :hammer_and_wrench:
+### All Skills :hammer_and_wrench:
 
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
@@ -30,8 +30,7 @@ https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoCol
 |:---:|:---:|
 
 ### IDEs :fire:
-|<img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/rider_logo_300x300.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/Logo.svg.png" width=60> |
-|:---:|:---:|
+
 
 ### Conecte-se comigo :smiley:
 <!-- <a href="https://facebook.com/marcosmasiri">
