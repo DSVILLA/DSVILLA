@@ -10,7 +10,7 @@
 </p>
 
 ### Main Skills :rocket:
-|<img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/python.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/r.png" width=60> |
+|<img src="https://raw.githack.com/marcospyy/marcospyy/main/img/python.png" width=60> | <img src="https://raw.githubusercontent.com/marcospyy/marcospyy/main/img/sharp.svg" width=60> |
 |:---:|:---:|
 
 
