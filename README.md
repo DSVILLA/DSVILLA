@@ -16,10 +16,14 @@
 
 ### Ferramentas :hammer_and_wrench:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/[javascript]/[#F7DF1E]" />
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/django.png" width=60> | <img src="https://raw.githack.com/DSVILLA/DSVILLA/main/img/bootstrap.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/0d9e64c69ceeb2cc96972aa23a0b9453ed83f8b4/img/ajax.svg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mongodb.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/mysql.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/nodes.png" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/react.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="" src="" />
+  <img align="center" alt="" src="" />
+  <img align="center" alt="" src="" />
+</div><br/>
 
 ### Others Skills :dart: :diving_mask:
 | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/unity-icon-1.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/615px-Photoshop_CC_icon.png" width=60> |
