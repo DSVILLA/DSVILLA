@@ -19,19 +19,19 @@
 ### All Skills :hammer_and_wrench:
 
   <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/NEXT%20JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/VUEJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
-    <img src="https://img.shields.io/badge/ANGULAR-0F0F11?style=for-the-badge&logo=angular&logoColor=WHITE">
-    <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=black">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black">
-    <img src="https://img.shields.io/badge/FIRE%20BASE-FF7139?style=for-the-badge&logo=firebase&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+  <!-- HTML5 -->  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- JAVASCRIPT -->  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- REACT -->  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <!-- TypeScript -->  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <!-- NEXTJS -->  <img src="https://img.shields.io/badge/NEXT%20JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <!-- VUEJS -->  <img src="https://img.shields.io/badge/VUEJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
+  <!-- ANGULAR -->  <img src="https://img.shields.io/badge/ANGULAR-0F0F11?style=for-the-badge&logo=angular&logoColor=WHITE">
+  <!-- DOCKER -->  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=black">
+  <!-- PostgreSQL -->  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <!-- SUPABASE -->  <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black">
+  <!-- FIREBASE -->  <img src="https://img.shields.io/badge/FIRE%20BASE-FF7139?style=for-the-badge&logo=firebase&logoColor=white">
+  <!-- Redis -->  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+  <!-- Pytest -->  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
       <br>
   </div>
 
@@ -41,9 +41,6 @@
 | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/unity-icon-1.jpg" width=40> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/615px-Photoshop_CC_icon.png" width=40> |
 |:---:|:---:|
 
-
-
-### IDEs :fire:
 
 
 
