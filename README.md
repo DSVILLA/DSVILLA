@@ -38,7 +38,7 @@
 
 
 ### Others Skills :dart: :diving_mask:
-| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/unity-icon-1.jpg" width=60> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/615px-Photoshop_CC_icon.png" width=60> |
+| <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/unity-icon-1.jpg" width=40> | <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/615px-Photoshop_CC_icon.png" width=40> |
 |:---:|:---:|
 
 
