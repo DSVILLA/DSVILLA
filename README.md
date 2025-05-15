@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif" width=450>
   <br><br>
-  <samp>Olá caro terráqueo me chamo Marcos, sou desenvolvedor em Python. Apaixonado por games, e RPG de mesa 👻🕹️. <br>Trabalho atualmente com desenvolvimentos de jogos em python e dev front-end em Django. Estou intensificando meus estudos em Python neste ano de 2022. E eu tenho uma relação de amor e ódio com a programação kkk. ♥️
+  <samp>Olá caro terráqueo me chamo Marcos, sou desenvolvedor de Python e C#. Apaixonado por games e RPG de mesa 👻🕹️. <br>Tenho focado meus estudos atualmente na area Front-end mas gostaria de trabalhar também com Back-end. Estou intensificando meus estudos em novas ferramentas IA e nas novas tecnologias auxiliares para o desenvolvimento web neste ano de 2025, é muito importante compreender e andar junto a essas ferramentas que vem auxilindo e automatizando muitas etapas do desenvolvimento. E eu tenho uma relação de amor e ódio com a programação kkk. ♥️
 
   </samp>
 </p>
