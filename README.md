@@ -11,7 +11,7 @@
 
 
 ### Main Skills :rocket:
-|<img src="https://raw.githack.com/marcospyy/marcospyy/main/img/python.png" width=45> | <img src="https://raw.githubusercontent.com/marcospyy/marcospyy/main/img/sharp.svg" width=45> |
+|<img src="https://raw.githack.com/marcospyy/marcospyy/main/img/python.png" width=50> | <img src="https://raw.githubusercontent.com/marcospyy/marcospyy/main/img/sharp.svg" width=50> |
 |:---:|:---:|
 
 
