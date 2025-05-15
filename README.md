@@ -21,11 +21,22 @@
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
 <div style="display: inline_block">
+
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="" src="" />
-  <img align="center" alt="" src="" />
-  <img align="center" alt="" src="" />
-</div><br/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="nextdotjs" src="https://img.shields.io/badge/NEXT%20JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img align="center" alt="vuedotjs" src="https://img.shields.io/badge/VUEJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black" />
+  <img align="center" alt="angular" src="https://img.shields.io/badge/ANGULAR-0F0F11?style=for-the-badge&logo=angular&logoColor=WHITE" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=black" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="supabase" src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img align="center" alt="firebase" src="https://img.shields.io/badge/FIRE%20BASE-FF7139?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img align="center" alt="redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <img align="center" alt="pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+  </div><br/>
 
 
 
